@@ -1,4 +1,4 @@
-package com.msb.factory.factorymethod;
+package com.msb.factory;
 
 public class Main {
     public static void main(String[] args) {
